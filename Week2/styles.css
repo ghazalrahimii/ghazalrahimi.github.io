@@ -1,0 +1,14 @@
+body {
+    font-family: sans-serif;
+    font-size: 16px;
+    color: white;
+    line-height:1.4;
+    background-color: #7c2176
+}
+
+h1,h2, h3 {
+    color:blue;
+}
+h1 {
+    text-decoration: underline;
+}
